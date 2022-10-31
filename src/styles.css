@@ -1,0 +1,11 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  .BT{
+    color:black;
+    border-radius:30px;
+    margin-top:20px;
+    margin-bottom:20px;
+    padding:10px; 
+  }
